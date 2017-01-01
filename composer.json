@@ -8,7 +8,6 @@
         }
     ],
     "require": {
-        "illuminate/http": "v5.1.41",
         "yangyifan/library-helper": "v0.1",
         "yangyifan/response-helper": "v0.1"
     },

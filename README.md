@@ -1,6 +1,6 @@
 ### 请求帮助类
 
-    对 Laravel 的 FormRequest类 重写 response 方法，方便自己写业务。
+    对 Laravel 的 FormRequest 类，重写了 response 方法，方便自己的业务。
 
 
 #### 安装
